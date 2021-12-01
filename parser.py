@@ -19,6 +19,7 @@ def getNeededRows(sList : list, sMap : dict, delimiter : str, params : list):
                 if (prt[0] not in sMap):
                     sMap[prt[0]] = []
                 sMap[prt[0]].append(prt[1])
+                break
 
 
 # main_input

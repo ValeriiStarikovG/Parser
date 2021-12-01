@@ -1,0 +1,7 @@
+a: inf_1
+b: ---
+c: inf_2
+d: -------
+a: inf_5
+e: inf_6
+new: inf_7
